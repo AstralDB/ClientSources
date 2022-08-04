@@ -1,0 +1,5 @@
+accessWidener	v1	intermediary
+accessible	class	net/minecraft/class_5251
+accessible	class	net/minecraft/class_677$class_680
+accessible	class	net/minecraft/class_1921$class_4750
+accessible	method	net/minecraft/class_5251	<init>	(I)V

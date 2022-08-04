@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: minegame159.meteorclient.Main
+Class-Path: orbit-0.1.7.jar versioncompare-1.3.7.jar java-discordrpc-2.0
+ .2.jar jna-4.4.0.jar discord-rpc-release-v3.4.0.jar
+
